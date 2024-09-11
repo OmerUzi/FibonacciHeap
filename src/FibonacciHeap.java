@@ -6,8 +6,8 @@
 
 public class FibonacciHeap
 {
-	private HeapNode min;
-	private HeapNode first;
+    private HeapNode min;
+    private HeapNode first;
     private int size = 0;
     private int numOfMarkedNodes = 0;
     public int numOfTrees = 0;
